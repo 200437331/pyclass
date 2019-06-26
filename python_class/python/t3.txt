@@ -1,0 +1,14 @@
+total 0
+drwx------@  3 omstudent  staff    96 Jun 24 10:54 Applications
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Desktop
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Documents
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Downloads
+drwx------@ 62 omstudent  staff  1984 Jun 24 15:47 Library
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Movies
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Music
+drwx------+  3 omstudent  staff    96 Jan  4 14:59 Pictures
+drwxr-xr-x+  5 omstudent  staff   160 Jun 24 11:13 Public
+drwxr-xr-x   2 omstudent  staff    64 Jun 24 13:37 commands_practice
+drwxr-xr-x   4 omstudent  staff   128 Jun 24 13:58 orange-method-Devon
+drwxr-xr-x   3 omstudent  staff    96 Jun 24 13:35 orange-method-firstname
+drwxr-xr-x   3 omstudent  staff    96 Jun 24 13:25 python_class

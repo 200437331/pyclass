@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x  2 omstudent  staff  64 Jun 24 11:50 mydir
+drwxr-xr-x  2 omstudent  staff  64 Jun 24 13:13 om.txt
+drwxr-xr-x  2 omstudent  staff  64 Jun 24 11:42 t.txt
+-rw-r--r--  1 omstudent  staff   0 Jun 25 08:17 t2.txt
